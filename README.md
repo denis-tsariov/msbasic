@@ -1,3 +1,8 @@
+## About This Fork
+
+This fork of MS BASIC is Ben Eater's implementation of MSBASIC for the breadboard computer as part of the 6502 computer project. This code is thus extremely similar to his as I was following his steps as part of my comp 400 course.
+
+For more information, see: https://eater.net/6502
 # Microsoft BASIC for 6502
 
 This is a single integrated assembly source tree that can generate nine different versions of Microsoft BASIC for 6502.
